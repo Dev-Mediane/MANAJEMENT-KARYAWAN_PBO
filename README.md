@@ -1,3 +1,2 @@
 # MANAJEMENT-KARYAWAN_PBO
-PBO FINAL PROJECT
-sebagai pengumpulan 
+sebagai pengumpulan PBO FINAL PROJECT
